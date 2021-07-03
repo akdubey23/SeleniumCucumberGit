@@ -16,7 +16,7 @@ import cucumber.api.junit.Cucumber;
 
 //Run this script for negative scenarios
 //@CucumberOptions(features="negative",glue={"negstepsexection"},plugin = {"html:target/cucumber-html-report"})
-
+//test
 public class TestRunner {
 
 }
